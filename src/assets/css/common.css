@@ -50,3 +50,17 @@ body,
   height: 100%;
   overflow-x: hidden;
 }
+
+
+/* 覆盖 vux 样式 */
+
+.weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon,
+.weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon>i,
+.weui-tabbar__item.weui-bar__item_on .weui-tabbar__label {
+  color: #fcdb00!important;
+}
+
+.vux-swiper-desc {
+  box-sizing: content-box;
+  padding: 20px 60% 10px 10px!important;
+}
