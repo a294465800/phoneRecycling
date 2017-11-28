@@ -65,3 +65,19 @@ body,
   box-sizing: content-box;
   padding: 20px 60% 10px 10px!important;
 }
+
+.vux-header {
+  background-color: #fcdb00!important;
+}
+
+.vux-header-back {
+  color: #fff!important;
+}
+
+.vux-header .vux-header-left .left-arrow:before {
+  border-color: #fff!important;
+}
+
+.vux-header-title {
+  color: #333!important;
+}

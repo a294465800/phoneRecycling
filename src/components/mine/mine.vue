@@ -43,7 +43,7 @@
 
     <group class="mine-operation">
       <cell title="我的维修单" link="/"></cell>
-      <cell title="我的回收单" link="/"></cell>
+      <cell title="我的回收单" link="/order/recycle"></cell>
       <cell title="关于我们" link="/"></cell>
     </group>
   </div>
