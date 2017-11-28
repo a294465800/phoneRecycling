@@ -8,8 +8,8 @@
     <router-view></router-view>
   </div>
   <!-- tabbar -->
-  <tabbar style="position: fixed;">
-    <tabbar-item>
+  <tabbar style="position: relative;">
+    <tabbar-item selected>
       <img slot="icon" src="../../assets/images/icon/shop_y.png">
       <span slot="label">回收手机</span>
     </tabbar-item>

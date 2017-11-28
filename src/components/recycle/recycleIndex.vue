@@ -250,6 +250,20 @@ export default {
             "https://static.aihuishou.com/image?file=58f9cd88aa988bac36000005&w=134&h=134",
           name: "iphone 7",
           price: 2000
+        },
+        {
+          id: 4,
+          url:
+            "https://static.aihuishou.com/image?file=58f9cd88aa988bac36000005&w=134&h=134",
+          name: "iphone 7",
+          price: 2000
+        },
+        {
+          id: 5,
+          url:
+            "https://static.aihuishou.com/image?file=58f9cd88aa988bac36000005&w=134&h=134",
+          name: "iphone 7",
+          price: 2000
         }
       ]
     };
