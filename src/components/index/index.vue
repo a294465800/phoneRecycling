@@ -9,7 +9,7 @@
   </div>
   <!-- tabbar -->
   <tabbar style="position: relative;">
-    <tabbar-item selected>
+    <tabbar-item selected link="/">
       <img slot="icon" src="../../assets/images/icon/shop_y.png">
       <span slot="label">回收手机</span>
     </tabbar-item>
@@ -17,7 +17,7 @@
       <img slot="icon" src="../../assets/images/icon/list_y.png">
       <span slot="label">修理手机</span>
     </tabbar-item>
-    <tabbar-item badge="2">
+    <tabbar-item badge="2" link="/mine">
       <img slot="icon" src="../../assets/images/icon/mine_y.png">
       <span slot="label">我的</span>
     </tabbar-item>
